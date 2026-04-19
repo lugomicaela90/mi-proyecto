@@ -1,8 +1,4 @@
 #include <stdio.h>
-
-/*Hallar la superficie de un triángulo conociendo la base y la altura. Solicitarle los
-datos de entrada al usuario.*/
-
 int main()
 {
         int base;
