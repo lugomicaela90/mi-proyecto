@@ -1,9 +1,5 @@
 /*Escribir una función que reciba un valor n, entero, y devuelva la suma de los
-valores entre 0 y n.
-Ejemplos:
-suma_n(5) = 15
-suma_n(120) = 7260
-suma_n(120120) = 7214467260*/
+valores entre 0 y n.*/
 #include <stdio.h>
 long long int sumar_hasta(int num)
 {
