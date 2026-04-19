@@ -1,4 +1,3 @@
-../azcurra/ej1.c
 #include <stdio.h>
 
 /*Hallar la superficie de un triángulo conociendo la base y la altura. Solicitarle los
